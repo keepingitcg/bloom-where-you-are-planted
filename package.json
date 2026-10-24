@@ -1,0 +1,12 @@
+{
+  "name": "bloom-where-you-are-planted",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 5174 --bind 127.0.0.1",
+    "check": "node --check app.js"
+  },
+  "description": "Bloom Where You Are Planted - a Chris Grissette Vibe Coded Pomodoro Timer Project",
+  "license": "MIT",
+  "author": "Chris Grissette"
+}
